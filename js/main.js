@@ -4,4 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
   });
 
-  
+  Swal.fire(
+    'Modificado',
+    'Se modifico el personaje',
+    'info'
+  )
