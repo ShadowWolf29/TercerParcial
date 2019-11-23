@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "roboto";
+    src: url("../font/Roboto-Regular.ttf") format("truetype");
+} 
+
+body
+{
+    background:#212121;
+    font-family: "roboto";
+}
+.formulario
+{
+    margin-top: 2%;
+    background: #707070;
+}
+.form
+{
+ padding-left: 5%;
+ padding-right: 5%;
+}
+.switch
+{
+    margin-top: 25px;
+}
